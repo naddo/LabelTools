@@ -1,5 +1,5 @@
 ## Data Annotation Tools 
-- [Labelbox](#github.com/Labelbox/labelbox-custom-labeling-apps)
+- [Labelbox](#https://github.com/Labelbox/labelbox-custom-labeling-apps)
 - [Labelme](#github.com/labelmeai/labelme) 
 - [ImageTagger](#github.com/bit-bots/imagetagger)
 - [Supervisely](#github.com/supervisely/supervisely)
