@@ -1,1 +1,13 @@
-# LabelTools
+## Data Annotation Tools 
+- [Labelbox](#https://github.com/Labelbox/labelbox-custom-labeling-apps)
+- [Labelme](#https://github.com/labelmeai/labelme) 
+- [ImageTagger](#https://github.com/bit-bots/imagetagger)
+- [Supervisely](#https://github.com/supervisely/supervisely)
+- [CVAT/OpenVino](#https://github.com/opencv/cvat)
+- [SuperAnnotate](#https://github.com/superannotateai)
+- [Sloth](#https://github.com/cvhciKIT/sloth)
+- [VATIC](#https://github.com/cvondrick/vatic)
+- [OpenLabeler](#https://github.com/kinhong/OpenLabeler)
+- [V7](#https://www.v7labs.com/image-annotation)
+- [UltimateLabeling](#https://github.com/alexandre01/UltimateLabeling)
+- [Pixie](#github.com/buni-rock/Pixie)
